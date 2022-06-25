@@ -1,3 +1,3 @@
 # Installation
 
-Installation on Linux, Windows, Mac OS
+Installation on Linux, Windows, and Mac OS
