@@ -23,27 +23,3 @@ sudo apt remove google-chrome-stable
 ```bash
 sudo apt purge google-chrome-stable
 ```
-
-### Install Chrome on Arch Linux and Manjaro
-
-- Installation
-```bash
-sudo apt update
-```
-```bash
-git clone https://aur.archlinux.org/google-chrome.git
-```
-```bash
-cd google-chrome
-```
-```bash
-makepkg -s
-```
-```bash
-sudo pacman -U --noconfirm google-chrome-*.xz
-```
-
-- Uninstallation
-```bash
-sudo pacman -R google-chrome
-```
