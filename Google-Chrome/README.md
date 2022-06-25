@@ -17,7 +17,7 @@ sudo apt install ./google-chrome-stable_current_amd64.deb
 sudo apt install google-chrome-stable
 ```
 
-- Uninstall
+- Uninstallation
 ```bash
 sudo apt remove google-chrome-stable
 ```
