@@ -1,7 +1,6 @@
 # Google Chrome Installation
 
 ### Install Chrome on Ubuntu, Debian, Kali Linux, and Linux Mint
-Open a terminal and use the following command to install Google Chrome on Debian-based Linux distributions, such as Ubuntu, Debian, Kali Linux, and Linux Mint.
 
 - Installation
 ```bash
@@ -26,7 +25,6 @@ sudo apt purge google-chrome-stable
 ```
 
 ### Install Chrome on Arch Linux and Manjaro
-Open a terminal and use the following command to install Google Chrome on Linux distributions based on Arch Linux, such as Manjaro and Arch Linux.
 
 - Installation
 ```bash
