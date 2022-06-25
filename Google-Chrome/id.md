@@ -1,7 +1,6 @@
 # Pemasangan Google Chrome
 
 ### Instal Chrome di Ubuntu, Debian, Kali Linux, dan Linux Mint
-Buka terminal dan gunakan perintah berikut untuk menginstal Google Chrome pada distribusi Linux berbasis Debian, seperti Ubuntu, Debian, Kali Linux, dan Linux Mint.
 
 - Instalasi
 ```bash
@@ -26,7 +25,6 @@ sudo apt purge google-chrome-stable
 ```
 
 ### Instal Chrome di Arch Linux dan Manjaro
-Buka terminal dan gunakan perintah berikut untuk menginstal Google Chrome pada distribusi Linux berbasis Arch Linux, seperti Manjaro dan Arch Linux.
 
 - Instalasi
 ```bash
