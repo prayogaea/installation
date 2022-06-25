@@ -1,6 +1,6 @@
 # Google Chrome Installation
 
-## Install Chrome on Ubuntu, Debian, dan Linux Mint
+### Install Chrome on Ubuntu, Debian, dan Linux Mint
 Open a terminal and use the following command to install Google Chrome on Debian-based Linux distributions, such as Ubuntu, Debian, Kali, and Linux Mint.
 
 - Installation
