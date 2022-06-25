@@ -1,6 +1,6 @@
 # Pemasangan Tor Browser
 
-### Instal Chrome di Ubuntu, Debian, Kali Linux, dan Linux Mint
+### Instal Tor Browser di Ubuntu, Debian, Kali Linux, dan Linux Mint
 
 - Instalasi
 ```bash
