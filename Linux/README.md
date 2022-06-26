@@ -1,3 +1,3 @@
 # Installation
 
-Installation on Linux
+Installation on Linux Ubuntu, Debian, Kali Linux, and Linux Mint.
