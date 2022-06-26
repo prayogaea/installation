@@ -25,8 +25,8 @@ git config --list
 
 - Uninstallation
 ```bash
-sudo apt remove google-chrome-stable
+sudo apt remove --auto-remove git
 ```
 ```bash
-sudo apt purge google-chrome-stable
+sudo apt purge --auto-remove git
 ```
