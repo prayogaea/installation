@@ -22,5 +22,5 @@ npm -v
 
 - Uninstallation
 ```bash
-sudo apt purge nodejs npm
+sudo apt-get purge nodejs npm
 ```
