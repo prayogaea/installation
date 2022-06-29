@@ -19,6 +19,7 @@ ls -l xampp-linux-x64-8.1.6-0-installer.run
 ```bash
 sudo ./xampp-linux-x64-8.1.6-0-installer.run
 ```
+- Permision htdocs
 ```bash
 sudo chmod -R 777 /opt/lampp/htdocs/
 ```
