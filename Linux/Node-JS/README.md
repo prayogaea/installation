@@ -1,4 +1,4 @@
-# Git Node JS Installation
+# Node JS Installation
 
 ### Install Node JS on Ubuntu, Debian, Kali Linux, and Linux Mint
 
