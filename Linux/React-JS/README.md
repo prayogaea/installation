@@ -2,7 +2,7 @@
 
 ### Install React JS on Ubuntu, Debian, Kali Linux, and Linux Mint
 
-> Before installing React-js, please install Node-js and NPM first.
+> Before installing React-js, please install [Node-js and NPM](https://github.com/prayogaekaardiansyah/installation/tree/master/Linux/Node-JS) first.
 
 - Installation
 ```bash
