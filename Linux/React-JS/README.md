@@ -1,4 +1,4 @@
-# Git React JS Installation
+# React JS Installation
 
 ### Install React JS on Ubuntu, Debian, Kali Linux, and Linux Mint
 
