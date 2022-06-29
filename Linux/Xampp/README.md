@@ -32,6 +32,12 @@ sudo /opt/lampp/manager-linux-x64.run
 ```bash
 http://localhost/dashboard/
 ```
+```bash
+http://localhost/dashboard/phpinfo.php
+```
+```bash
+http://localhost/phpmyadmin/
+```
 
 - Uninstallation
 ```bash
