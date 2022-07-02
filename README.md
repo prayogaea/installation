@@ -11,7 +11,7 @@ Welcome to the Installation repository. Here you can learn various kinds of soft
 
 ## Sponsors
 
-[![Sponsors](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/prayogaekaardiansyah) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://saweria.co/prayogaekaardiansyah)
+[![Sponsors](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/prayogaekaardiansyah) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://saweria.co/prayogaea)
 
 
 
