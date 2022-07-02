@@ -17,3 +17,5 @@ Installation on Linux, Windows, and Mac OS
 ## Contribution
 
 I'm very happy if you want to contribute to this repository. Before that, please read the [rules and contribution guidelines](https://github.com/prayogaekaardiansyah/installation/blob/master/CONTRIBUTING.md) that I have prepared. Thank you!
+
+[![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/prayogaekaardiansyah)
