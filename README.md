@@ -19,4 +19,4 @@ Welcome to the Installation repository. Here you can learn various kinds of soft
 
 I'm very happy if you want to contribute to this repository. Before that, please read the [rules and contribution guidelines](https://github.com/prayogaea/installation/blob/master/CONTRIBUTING.md) that I have prepared. Thank you!
 
-[![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/prayogaea)
+[![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/prayogaekaardiansyah)
