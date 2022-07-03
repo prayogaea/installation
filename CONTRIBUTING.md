@@ -22,6 +22,6 @@ I am very happy and grateful if you contribute to this repository.
     - `feat:` New feature
     - `chore:` Chore or maintenance
     - `docs:` Change something
-- If you have a problem or issue with a pull request, you can report the issue to [issues](https://github.com/prayogaekaardiansyah/installation/issues)
+- If you have a problem or issue with a pull request, you can report the issue to [issues](https://github.com/prayogaea/installation/issues)
 
 For pull requests I suggest you explain in detail what you changed or added, and be polite, to other fellow contributors, and Thank you very much for contributing.
