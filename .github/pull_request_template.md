@@ -5,7 +5,7 @@
 
 ## Checklist
 
-- [ ] I have read [CONTRIBUTING.md](https://github.com/prayogaekaardiansyah/installation/blob/master/CONTRIBUTING.md) and have agreed to all the terms.
+- [ ] I have read [CONTRIBUTING.md](https://github.com/prayogaea/installation/blob/master/CONTRIBUTING.md) and have agreed to all the terms.
 
 ## Environment
 
