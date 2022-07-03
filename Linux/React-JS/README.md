@@ -19,7 +19,7 @@ npm start
 ```
 ```bash
 http://localhost:3000
- ```
+```
 
 - Uninstallation
 ```bash
