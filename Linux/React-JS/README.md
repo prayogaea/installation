@@ -12,7 +12,7 @@ sudo npm install -g create-react-app
 create-react-app --version
 ```
 ```bash
-npm create-react-app App-Name
+create-react-app App-Name
 ------------or------------
 npx create-react-app App-Name
 ```
