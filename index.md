@@ -1,7 +1,6 @@
 # Installation
 
-Welcome to the Installation repository. Here you can learn various kinds of software installations, programming languages, and others. For various operating systems such as Linux, Windows, and Mac OS.
-
+Welcome to Installation. Here you can learn various kinds of software installations, programming languages, and others. For various operating systems such as Linux, Windows, and Mac OS.
 
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![macos](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
