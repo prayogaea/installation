@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Installation
 
-You can use the [editor on GitHub](https://github.com/prayogaea/installation/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to the Installation repository. Here you can learn various kinds of software installations, programming languages, and others. For various operating systems such as Linux, Windows, and Mac OS.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![macos](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## License
 
-```markdown
-Syntax highlighted code block
+<a href="https://github.com/prayogaea/installation/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/prayogaea/installation?style=flat&logo=appveyor"></a>
 
-# Header 1
-## Header 2
-### Header 3
+## Sponsors
 
-- Bulleted
-- List
+[![Sponsors](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/prayogaea) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://saweria.co/prayogaea)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Contribution
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+I'm very happy if you want to contribute to this repository. Before that, please read the [rules and contribution guidelines](https://github.com/prayogaea/installation/blob/master/CONTRIBUTING.md) that I have prepared. Thank you!
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/prayogaea/installation/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/prayogaekaardiansyah)
