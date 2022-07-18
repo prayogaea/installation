@@ -1,25 +1,25 @@
 # PHP Installation
 
-### Install PHP on Ubuntu, Debian, Kali Linux, and Linux Mint
+### Install [PHP](https://www.php.net/downloads) on Ubuntu, Debian, Kali Linux, and Linux Mint
 
 - Installation
 ```bash
 sudo apt update
 ```
 ```bash
-sudo apt install python3-pip
+sudo apt install php8.1 libapache2-mod-php8.1
 ```
 ```bash
-pip3 --version
-```
-```bash
-pip3 list
+php -v
 ```
 
 - Uninstallation
 ```bash
-sudo apt remove --auto-remove python-pip
+sudo apt-get purge php8.*
 ```
 ```bash
-sudo apt purge --auto-remove python-pip
+sudo apt-get autoclean
+```
+```bash
+sudo apt-get autoremove
 ```
