@@ -2,8 +2,7 @@
 name: Feature request
 about: Suggest an idea for this project
 labels: enhancement, question
-assignees: @prayogaea
-
+assignees: prayogaea
 ---
 
 **Is your feature request related to a problem? Please describe.**
