@@ -11,7 +11,7 @@ sudo apt install fonts-firacode
 ```
 
 - Visual Studio Code
->_ Open vs code then press 
+> Open vs code then press 
 `ctrl+shift+p`
 Then look for the open settings json file `Open settings json` and add the following json script.
 ```json
