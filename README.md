@@ -11,6 +11,7 @@ Welcome to the Installation repository. Here you can learn various kinds of soft
 
 ## Sponsors
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e8b84645b80c4ac88f5cd2ca4d2ce222)](https://app.codacy.com/gh/prayogaea/installation?utm_source=github.com&utm_medium=referral&utm_content=prayogaea/installation&utm_campaign=Badge_Grade_Settings)
 [![Sponsors](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/prayogaea) [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://saweria.co/prayogaea) [![paypal.me/prayogaea](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/prayogaea)
 
 
