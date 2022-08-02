@@ -6,7 +6,8 @@ Welcome to the Installation repository. Here you can learn various kinds of soft
 
 ## Highlights
 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/8b456b0dc1864b749206ad29d05e5bcd)](https://www.codacy.com/gh/prayogaea/installation/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=prayogaea/installation&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/8b456b0dc1864b749206ad29d05e5bcd)](https://www.codacy.com/gh/prayogaea/installation/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=prayogaea/installation&amp;utm_campaign=Badge_Grade) 
+![example workflow](https://github.com/prayogaea/installation/actions/workflows/codacy.yml/badge.svg)
 
 ## License
 
