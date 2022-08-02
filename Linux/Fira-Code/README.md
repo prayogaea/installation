@@ -1,6 +1,6 @@
 # Fira Code Installation
 
-### Install Fira Code on Ubuntu, Debian, Kali Linux, and Linux Mint
+### Install [Fira Code](https://github.com/tonsky/FiraCode) on Ubuntu, Debian, Kali Linux, and Linux Mint
 
 - Installation
 ```bash
