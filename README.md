@@ -1,5 +1,3 @@
-[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://supportukrainenow.org/)
-
 # Installation
 
 Welcome to the Installation repository. Here you can learn various kinds of software installations, programming languages, and others. For various operating systems such as Linux, Windows, and Mac OS.
