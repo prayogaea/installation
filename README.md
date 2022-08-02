@@ -2,12 +2,15 @@
 
 Welcome to the Installation repository. Here you can learn various kinds of software installations, programming languages, and others. For various operating systems such as Linux, Windows, and Mac OS.
 
-
 ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![macos](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+## Highlights
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/8b456b0dc1864b749206ad29d05e5bcd)](https://www.codacy.com/gh/prayogaea/installation/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=prayogaea/installation&amp;utm_campaign=Badge_Grade)
 
 ## License
 
-<a href="https://github.com/prayogaea/installation/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/prayogaea/installation?style=flat&logo=appveyor"></a> [![Codacy Badge](https://app.codacy.com/project/badge/Grade/8b456b0dc1864b749206ad29d05e5bcd)](https://www.codacy.com/gh/prayogaea/installation/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=prayogaea/installation&amp;utm_campaign=Badge_Grade)
+<a href="https://github.com/prayogaea/installation/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/prayogaea/installation?style=flat&logo=appveyor"></a>
 
 ## Sponsors
 
