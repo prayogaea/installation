@@ -7,7 +7,8 @@ Welcome to the Installation repository. Here you can learn various kinds of soft
 ## Highlights
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/8b456b0dc1864b749206ad29d05e5bcd)](https://www.codacy.com/gh/prayogaea/installation/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=prayogaea/installation&amp;utm_campaign=Badge_Grade) 
-![example workflow](https://github.com/prayogaea/installation/actions/workflows/codacy.yml/badge.svg)
+![example workflow](https://github.com/prayogaea/installation/actions/workflows/codacy.yml/badge.svg) 
+[![JavaScript Style Guide: Good Parts](https://img.shields.io/badge/code%20style-goodparts-brightgreen.svg?style=flat)](https://github.com/prayogaea/installation)
 
 ## License
 
@@ -23,4 +24,5 @@ Welcome to the Installation repository. Here you can learn various kinds of soft
 
 I'm very happy if you want to contribute to this repository. Before that, please read the [rules and contribution guidelines](https://github.com/prayogaea/installation/blob/master/CONTRIBUTING.md) that I have prepared. Thank you!
 
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/prayogaea/installation/issues) 
 [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/prayogaekaardiansyah)
