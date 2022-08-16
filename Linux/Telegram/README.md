@@ -1,6 +1,6 @@
 # Telegram Installation
 
-### Install Telegram on Ubuntu, Debian, Kali Linux, and Linux Mint
+### Install [Telegram](https://desktop.telegram.org/) on Ubuntu, Debian, Kali Linux, and Linux Mint
 
 - Installation
 ```bash
