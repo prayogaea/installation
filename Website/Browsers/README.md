@@ -1,6 +1,6 @@
 # Website Address Browser
 
-- [Google Chrome](https://www.google.com/intl/en/chrome/)
+- [Chrome](https://www.google.com/intl/en/chrome/)
 - [Firefox](https://www.mozilla.org/en-US/firefox/)
 - [Safari](https://www.apple.com/safari/)
 - [Opera](https://www.opera.com/)
