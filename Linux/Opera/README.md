@@ -6,7 +6,7 @@
 
 Download the Opera from the official website [Opera](https://www.opera.com/)
 
-> Download the latest version of Opera [Download](https://download.opera.com/download/get/?partner=www&opsys=Linux)
+> [Download](https://download.opera.com/download/get/?partner=www&opsys=Linux) the latest version of Opera
 
 ```bash
 cd Downloads/
