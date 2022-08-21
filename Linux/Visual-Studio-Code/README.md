@@ -26,3 +26,6 @@ code
 ```bash
 sudo apt remove code
 ```
+```bash
+sudo apt purge code
+```
