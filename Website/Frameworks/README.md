@@ -17,4 +17,3 @@
 
 ### Java
 - [Spring](https://spring.io/)
-- [Spring Boot](https://spring.io/spring-boot/)
