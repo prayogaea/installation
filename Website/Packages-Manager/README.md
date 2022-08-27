@@ -2,6 +2,8 @@
 
 ### PHP
 - [Composer](https://getcomposer.org/)
+- [Packagist](https://packagist.org/)
+- [Private Packagist](https://packagist.com/)
 
 ### JavaScript
 - [NPM](https://www.npmjs.com/)
@@ -10,7 +12,3 @@
 
 ### Python
 - [Pip](https://pypi.org/)
-
-### Java
-- [Maven](https://maven.apache.org/)
-- [Gradle](https://gradle.org/)
