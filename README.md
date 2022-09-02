@@ -1,4 +1,4 @@
-<img src="assets/img/install.svg" alt="Google Cloud logo" title="Google Cloud" align="right" height="200" width="200"/>
+<img src="assets/img/install.svg" alt="Google Cloud logo" title="Google Cloud" align="right" height="175" width="175"/>
 
 # Installation
 
