@@ -15,4 +15,4 @@
 UnitTest/
     php/
         PHPUnit/
-            vendor/bin
+            Vendor/
