@@ -12,4 +12,4 @@
 *.vsix
 
 #Unit Test
-Vendor/
+.Vendor/
