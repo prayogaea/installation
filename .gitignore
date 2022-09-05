@@ -12,4 +12,7 @@
 *.vsix
 
 #Unit Test
-UnitTest/php/PHPUnit/vendor
+UnitTest/
+    php/
+        PHPUnit/
+            vendor/bin
