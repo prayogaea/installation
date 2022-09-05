@@ -12,4 +12,7 @@
 *.vsix
 
 #Unit Test
-.Vendor/
+UnitTest/
+    php/
+        PHPUnit/
+            vendor/*/
