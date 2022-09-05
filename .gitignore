@@ -10,3 +10,7 @@
 
 # Built Visual Studio Code Extensions
 *.vsix
+
+# UnitTest
+
+UnitTest/php/PHPUnit/vendor/
