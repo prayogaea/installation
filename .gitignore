@@ -10,11 +10,3 @@
 
 # Built Visual Studio Code Extensions
 *.vsix
-
-README.md
-
-#Unit Test
-UnitTest/
-    php/
-        PHPUnit/
-            vendor/*/bin
