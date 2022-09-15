@@ -1,4 +1,4 @@
-<img src="assets/img/install.svg" alt="installation" align="right" height="100" width="100"/>
+<img src="https://raw.githubusercontent.com/prayogaea/installation/c44af8554fe5917df1853d1c772ef2a236debee5/assets/img/install.svg" alt="installation" align="right" height="100" width="100"/>
 
 # Installation
 
