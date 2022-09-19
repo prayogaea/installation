@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>jQuery | NPM</title>
+
+        <!-- css -->
+        <style>
+            button{
+                cursor: pointer;
+            }
+        </style>
+
+    </head>
+    <body>
+
+        <button id="hide">Hide</button>
+        <button id="show">Show</button>
+        
+        <p>Hello, jQuery!</p>
+
+        <!-- jQuery -->
+        <script src="node_modules/jquery/dist/jquery.min.js"></script>
+
+        <script>
+            $(document).ready(function(){
+                $("#hide").click(function(){
+                    $("p").hide();
+                });
+                $("#show").click(function(){
+                    $("p").show();
+                });
+            });
+        </script>
+    </body>
+</html>
