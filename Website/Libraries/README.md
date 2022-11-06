@@ -5,3 +5,4 @@
 
 ### JavaScript
 - [jQuery](https://jquery.com/)
+- [AOS](https://michalsnik.github.io/aos/)
